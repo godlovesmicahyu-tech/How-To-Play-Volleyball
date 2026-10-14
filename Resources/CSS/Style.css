@@ -1,0 +1,117 @@
+
+h1 {
+
+margin: 0 auto;
+
+text-align: center;
+
+font-size: 400%;
+
+border: 8px outset blue;
+
+}
+
+h2 {
+
+font-family: Arial;
+font-size: 180%;
+
+}
+
+p {
+
+margin: 0 auto;
+
+text-align: center;
+
+width: 750px;
+
+font-style: oblique;
+
+font-size: 100%;
+
+}
+
+body {
+
+
+background-image: linear-gradient(rgb(150, 230, 241), white)
+
+
+
+}
+
+img {
+
+width: 750px;
+
+
+
+}
+
+
+a, a:visited {
+
+color: black;
+
+Margin: 0 auto;
+
+text-align: center;
+
+Width: 750px;
+
+text-decoration: none;
+
+border: 2px solid black;
+
+}
+
+.TabCon {
+
+background-color: rgb(240, 251, 114);    
+padding-top: 10px;
+padding-right: 15px;
+Padding-left: 15px;
+padding-bottom: 10px;
+opacity: .8;
+
+}
+
+.TabCon:hover {
+
+background-color: rgb(238, 241, 193);
+
+
+}
+
+div.OrderedList {
+
+
+text-align: center;
+
+font-size: 100%;
+
+}
+
+ol.List {
+
+display: inline-block;
+
+text-align: left;
+
+font-size: 100%;
+
+}
+
+video {
+
+width: 750px;
+
+Height: auto;
+
+overflow: hidden;
+
+
+
+}
+
